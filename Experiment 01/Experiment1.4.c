@@ -1,5 +1,5 @@
 /*Experiment 1: installation, Environment setup and starting with C language
-2. Write a C program to print the address in different lines*/
+4. Write a C program to print the address in different lines*/
 
 
 #include <stdio.h>
@@ -13,5 +13,5 @@
     printf("*******\n");
     getch();
 
-    return 'a';
+    return '0';
 }

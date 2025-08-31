@@ -3,7 +3,8 @@
 #include <conio.h>
 int main(){
 
-  
+  printf("Name: Ansh Bharadwaj\nSap-ID: 590029063\nCourse: Bsc CS\n Batch: 1st"); 
+  printf("-----------------------------");
   int a,b;
     printf("enter the value a = "); 
     scanf("%d",&a);

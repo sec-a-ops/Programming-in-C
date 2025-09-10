@@ -18,7 +18,7 @@ int main()
 	printf("Enter the time = ");
 	scanf("%f",&time);
 
-	CI=(principle(1+(rate/100)^time))- principle;
+	CI = principal * pow((1 + rate / 100), time) - principal;
 	printf("the compound intrest is = %f", CI);
 	getch();
 	return 0;
